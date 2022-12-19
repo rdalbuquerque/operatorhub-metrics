@@ -1,0 +1,297 @@
+https://github.com/aerospike/aerospike-kubernetes-operator/ languages:
+- Go 92.2
+- Shell 3.0
+- Python 2.6
+- Makefile 1.4
+- Other 0.8
+- None
+- None
+https://github.com/aiven/aiven-operator languages:
+- Go 95.5
+- Makefile 3.1
+- Smarty 1.2
+- Dockerfile 0.2
+https://github.com/lightbend/akka-cluster-operator languages:
+- Go 93.2
+- Dockerfile 3.8
+- Shell 3.0
+https://github.com/altinity/clickhouse-operator languages:
+- Go 47.2
+- Python 44.4
+- Shell 7.6
+- Other 0.8
+- None
+- None
+https://github.com/Alvearie/imaging-ingestion languages:
+- Go 50.8
+- Java 46.2
+- Makefile 1.4
+- Other 1.6
+- None
+- None
+https://github.com/anchore/engine-operator languages:
+- Makefile 49.3
+- Mustache 39.4
+- Dockerfile 11.3
+https://github.com/pulp/pulp-operator languages:
+- Go 91.4
+- Makefile 3.8
+- Shell 3.8
+- Other 1.0
+- None
+- None
+https://github.com/radanalyticsio/spark-operator languages:
+- Java 80.1
+- Shell 17.8
+- Makefile 2.0
+- JavaScript 0.1
+https://github.com/wso2/k8s-api-operator languages:
+- Go 98.2
+- Shell 1.2
+- Dockerfile 0.6
+https://github.com/3scale/apicast-operator languages:
+- Go 90.7
+- Makefile 6.9
+- Shell 1.2
+- Dockerfile 1.2
+https://github.com/Apicurio/apicurio-registry-operator languages:
+- Go 72.0
+- HTML 13.3
+- Java 10.2
+- Makefile 3.7
+- Other 0.8
+- None
+- None
+https://github.com/apimatic/apimatic-kubernetes-operator languages:
+- Go 85.0
+- Makefile 12.7
+- Dockerfile 2.3
+https://github.com/Appdynamics/appdynamics-operator languages:
+https://github.com/redhat-developer/application-services-metering-operator languages:
+- Java 97.3
+- Makefile 2.7
+https://github.com/operator-framework/community-operators/tree/master/upstream-community-operators/appranix languages:
+https://github.com/appsody/appsody-operator languages:
+- Go 90.6
+- Shell 7.0
+- Makefile 2.0
+- Dockerfile 0.4
+https://github.com/aquasecurity/aqua-operator languages:
+- Go 97.4
+- Makefile 2.3
+- Dockerfile 0.3
+https://github.com/arangodb/kube-arangodb languages:
+- Go 98.6
+- JavaScript 0.8
+- Makefile 0.4
+- Groovy 0.1
+- Shell 0.1
+- Mustache 0.0
+https://github.com/argoproj-labs/argocd-operator languages:
+- Go 95.6
+- Smarty 1.9
+- Makefile 1.2
+- Other 1.3
+- None
+- None
+https://github.com/disposab1e/argocd-operator-helm.git languages:
+- Makefile 40.0
+- Shell 36.9
+- Mustache 22.2
+- Dockerfile 0.9
+https://github.com/netapp/trident languages:
+- Go 98.8
+- Other 1.2
+- None
+- None
+https://github.com/atlasmap/atlasmap-operator languages:
+- Go 75.9
+- Makefile 20.2
+- Shell 2.1
+- Dockerfile 1.8
+https://github.com/Kuadrant/authorino-operator languages:
+- Go 85.9
+- Makefile 11.0
+- Dockerfile 1.9
+- Shell 1.2
+https://github.com/gp42/aws-auth-operator languages:
+- Go 73.5
+- Makefile 22.5
+- Dockerfile 4.0
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/aws-controllers-k8s languages:
+https://github.com/yard-turkey/aws-s3-provisioner languages:
+- Go 94.3
+- Shell 5.3
+- Dockerfile 0.4
+https://github.com/ansible/awx-operator languages:
+- Jinja 76.6
+- Makefile 21.1
+- Python 1.1
+- Other 1.2
+- None
+- None
+https://github.com/Azure/azure-service-operator languages:
+- Go 98.2
+- Shell 1.1
+- Other 0.7
+- None
+- None
+https://github.com/banzaicloud/kafka-operator/tree/master languages:
+- Go 98.9
+- Other 1.1
+- None
+- None
+https://github.com/netapp/beegfs-csi-driver languages:
+- Go 66.5
+- Shell 19.9
+- HCL 6.4
+- Makefile 5.5
+- Python 1.2
+- Dockerfile 0.5
+https://github.com/apache/camel-k languages:
+- Go 93.3
+- Shell 2.1
+- Groovy 1.5
+- Makefile 1.3
+- Java 1.0
+- Gherkin 0.4
+- Other 0.4
+- None
+- None
+https://github.com/apache/camel-karavan languages:
+- TypeScript 86.8
+- Java 8.9
+- CSS 3.3
+- Shell 0.7
+- JavaScript 0.2
+- Makefile 0.1
+https://github.com/carbonetes/carbonetes-analyzer languages:
+- TypeScript 98.1
+- Dockerfile 1.9
+https://github.com/instaclustr/cassandra-operator languages:
+- Go 67.1
+- Shell 15.0
+- Java 11.4
+- Makefile 3.2
+- Dockerfile 2.4
+- Mustache 0.9
+https://github.com/jetstack/cert-manager languages:
+- Go 95.8
+- Makefile 2.3
+- Shell 1.7
+- Other 0.2
+- None
+- None
+https://github.com/chaosblade-io/chaosblade-operator languages:
+- Go 98.2
+- Makefile 1.2
+- Other 0.6
+- None
+- None
+https://github.com/CleverCloud/clever-operator languages:
+- Rust 91.1
+- Dockerfile 6.0
+- Makefile 2.8
+- Smarty 0.1
+https://github.com/stolostron/cluster-templates-operator languages:
+- Go 95.1
+- Makefile 4.2
+- Dockerfile 0.7
+https://github.com/open-cluster-management-io/registration-operator languages:
+- Go 97.2
+- Makefile 2.2
+- Other 0.6
+- None
+- None
+https://github.com/redhat-performance/cluster-impairment-operator languages:
+- Python 46.7
+- Jinja 26.3
+- Makefile 22.9
+- Dockerfile 4.1
+https://github.com/dmesser/cockroachdb-operator languages:
+- Makefile 48.1
+- Smarty 33.8
+- Dockerfile 18.1
+https://github.com/jaegertracing/jaeger-operator languages:
+- Go 89.4
+- Shell 8.1
+- Makefile 2.3
+- Dockerfile 0.2
+http://github.com/open-telemetry/opentelemetry-operator languages:
+- Go 97.3
+- Makefile 1.6
+- Other 1.1
+- None
+- None
+https://github.com/devopstales/trivy-operator languages:
+- Python 91.2
+- Makefile 4.0
+- Dockerfile 2.1
+- Smarty 2.0
+- Shell 0.7
+https://github.com/IBM/composable languages:
+- Go 81.3
+- Shell 14.1
+- Makefile 4.0
+- Dockerfile 0.6
+https://www.github.com/confidential-containers/operator languages:
+- Go 54.3
+- Shell 24.9
+- Makefile 11.3
+- Jinja 7.6
+- Dockerfile 1.9
+https://github.com/ouzi-dev/credstash-operator languages:
+- Go 82.2
+- Makefile 10.8
+- Mustache 4.7
+- Shell 1.2
+- Dockerfile 1.1
+https://github.com/CrowdStrike/falcon-operator languages:
+- Go 94.1
+- Makefile 4.5
+- Other 1.4
+- None
+- None
+https://github.com/CrunchyData/postgres-operator languages:
+- Go 95.8
+- Shell 3.0
+- Other 1.2
+- None
+- None
+http://github.com/cryostatio/cryostat-operator languages:
+- Go 95.1
+- Makefile 3.6
+- Dockerfile 1.2
+- Shell 0.1
+https://github.com/DataDog/datadog-operator languages:
+- Go 98.5
+- Other 1.5
+- None
+- None
+https://github.com/k8ssandra/cass-operator languages:
+- Go 97.4
+- Makefile 1.5
+- Other 1.1
+- None
+- None
