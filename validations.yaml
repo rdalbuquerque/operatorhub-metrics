@@ -1,0 +1,6 @@
+- expression: "object.spec.type == 'LoadBalancer'"
+  errorMessage: "wrong service type"
+- expression: "object.spec.template.spec.containers[0].resources.requests.memory != '64Mi'"
+  errorMessage: "wrong memory request"
+- expression: "object.metadata.name != 'my-deployment'"
+  errorMessage: "wrong deployment name"
